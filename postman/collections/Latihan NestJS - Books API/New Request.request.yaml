@@ -1,4 +1,0 @@
-$kind: http-request
-url: http://localhost:3000/books
-method: GET
-order: 1788746888703
